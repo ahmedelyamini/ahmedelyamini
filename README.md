@@ -1,23 +1,47 @@
-#Ahmed Elyamini
+# Ahmed Elyamini ✈️
 
-Aerospace Engineering Student
-Smart Manufacturing | Industrial IoT | Embedded Systems
-ENSA Safi – Université Cadi Ayyad
+🎓 **Aerospace Engineering Student**
+🏭 **Smart Manufacturing | Industrial IoT | Embedded Systems**
+📍 ENSA Safi – Université Cadi Ayyad
 
-I am passionate about aerospace manufacturing systems, embedded technologies and industrial digitalization.
-My interests focus on building intelligent systems that improve industrial performance through automation, data analysis and continuous improvement.
+---
 
-About Me
+## 🚀 About Me
 
-Aerospace engineering student specialized in smart manufacturing systems
+I am passionate about **aerospace manufacturing systems**, **embedded technologies**, and **industrial digitalization**.
 
-Interested in industrial IoT, embedded systems and digital transformation of manufacturing
+My interests focus on building **intelligent systems** that improve industrial performance through **automation**, **data analysis**, and **continuous improvement**.
 
-Experience working on traceability systems and industrial process optimization
+---
 
-Strong interest in continuous improvement and operational excellence in aerospace production
+## 👨‍💻 Profile
 
-Currently learning web technologies to develop industrial monitoring dashboards
+🔹 Aerospace engineering student specializing in **Smart Manufacturing Systems**
+
+🔹 Interested in **Industrial IoT**, **Embedded Systems**, and **Digital Transformation of Manufacturing**
+
+🔹 Experience working on **traceability systems** and **industrial process optimization**
+
+🔹 Strong interest in **Continuous Improvement** and **Operational Excellence in Aerospace Production**
+
+🔹 Currently learning **Web Technologies** to develop **industrial monitoring dashboards**
+
+---
+
+## 🎯 Engineering Interests
+
+⚙️ Embedded Systems
+
+🌐 Industrial IoT
+
+🏭 Smart Manufacturing
+
+✈️ Aerospace Production Systems
+
+🧠 Predictive Maintenance
+
+📈 Continuous Improvement
+
 
 
 ## 🌐 Socials:
