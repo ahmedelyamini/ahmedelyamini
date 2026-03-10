@@ -1,5 +1,23 @@
-# 💫 About Me:
-I am passionate about building intelligent systems combining artificial intelligence, embedded systems and industrial applications.<br>My goal is to develop innovative technologies for aerospace and Industry 4.0.
+#Ahmed Elyamini
+
+Aerospace Engineering Student
+Smart Manufacturing | Industrial IoT | Embedded Systems
+ENSA Safi – Université Cadi Ayyad
+
+I am passionate about aerospace manufacturing systems, embedded technologies and industrial digitalization.
+My interests focus on building intelligent systems that improve industrial performance through automation, data analysis and continuous improvement.
+
+About Me
+
+Aerospace engineering student specialized in smart manufacturing systems
+
+Interested in industrial IoT, embedded systems and digital transformation of manufacturing
+
+Experience working on traceability systems and industrial process optimization
+
+Strong interest in continuous improvement and operational excellence in aerospace production
+
+Currently learning web technologies to develop industrial monitoring dashboards
 
 
 ## 🌐 Socials:
