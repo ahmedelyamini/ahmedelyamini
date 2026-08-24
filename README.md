@@ -1,4 +1,3 @@
-```markdown
 # Ahmed EL YAMINI ✈️
 
 🎓 **State Engineer in Aeronautical Engineering & Space Technologies**  
@@ -115,9 +114,9 @@ I am particularly interested in **industrial digitalization, Linux, embedded sys
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedelyamini/)
+
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.elyamini.pro@gmail.com)
 
 ---
 
 > **Engineering physical systems. Improving industrial processes. Connecting them through software.**
-```
