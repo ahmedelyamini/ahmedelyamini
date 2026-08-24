@@ -28,9 +28,11 @@ I am particularly interested in **industrial digitalization, Linux, embedded sys
 - Applied **DMAIC, VSM, Kaizen, Ishikawa, 5 Why, and continuous improvement methods**
 - Explored opportunities for improving production visibility and digital traceability
 
+**Methods:** Lean Manufacturing · DMAIC · VSM · KPI Analysis · Continuous Improvement
+
 ---
 
-### 💻 Industrial Digital Traceability Platform
+### 💻 [Industrial Digital Traceability Platform](https://github.com/ahmedelyamini/mes-peinture)
 
 - Designed and developed a **MES-oriented web platform** for industrial traceability
 - Built the backend using **Python and Django**
@@ -40,6 +42,8 @@ I am particularly interested in **industrial digitalization, Linux, embedded sys
 - Structured the monitoring of production operations, batches, and process data
 
 **Tech:** Python · Django · PostgreSQL · Docker · Nginx · REST API · Linux
+
+🔗 **[View project on GitHub](https://github.com/ahmedelyamini/mes-peinture)**
 
 ---
 
@@ -57,21 +61,25 @@ I am particularly interested in **industrial digitalization, Linux, embedded sys
 
 ## 💻 Tech Stack
 
-### Programming & Software
+### 👨‍💻 Programming
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Web & Data
+---
+
+### 🌐 Web & Data
 
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Linux & DevOps
+---
+
+### 🐧 Linux & DevOps
 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -80,7 +88,9 @@ I am particularly interested in **industrial digitalization, Linux, embedded sys
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### Embedded Systems
+---
+
+### 🔌 Embedded Systems & IoT
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
@@ -91,31 +101,23 @@ I am particularly interested in **industrial digitalization, Linux, embedded sys
 
 ## 🎯 Engineering Interests
 
-- ⚙️ Methods & Industrialization
-- 📊 Industrial Performance & Continuous Improvement
-- 🏭 Smart Manufacturing
-- 🌐 Industrial Digitalization & MES
-- 🔌 Embedded Systems & Industrial IoT
-- 🐧 Linux & Computer Systems
-- 💻 Software Engineering & DevOps
-- ✅ Quality & Process Optimization
-- ✈️ Aerospace Engineering
-
----
-
-## 📊 GitHub Stats
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedelyamini&theme=dark&hide_border=false&include_all_commits=true&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelyamini&theme=dark&hide_border=false&layout=compact)
+- ⚙️ **Methods & Industrialization**
+- 📊 **Industrial Performance & Continuous Improvement**
+- 🏭 **Smart Manufacturing**
+- 🌐 **Industrial Digitalization & MES**
+- 🔌 **Embedded Systems & Industrial IoT**
+- 🐧 **Linux & Computer Systems**
+- 💻 **Software Engineering & DevOps**
+- ✅ **Quality & Process Optimization**
+- ✈️ **Aerospace Engineering**
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedelyamini/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedelyamini/)
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.elyamini.pro@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.elyamini.pro@gmail.com)
 
 ---
 
