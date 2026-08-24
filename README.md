@@ -2,7 +2,7 @@
 
 ### Aeronautical Engineer | Industrial Digitalization | Embedded Systems | Software
 
-ðŸ“ Casablanca, Morocco
+📍 Casablanca, Morocco
 
 State Engineer in **Aeronautical Engineering & Space Technologies**, interested in the intersection of aerospace engineering, industrial performance, digital technologies and embedded systems.
 
@@ -12,9 +12,9 @@ My projects combine engineering analysis with software, data, electronics and in
 
 ## Featured Projects
 
-### âœˆï¸ Flying-Wing Aerodynamic Design
+### ✈️ Flying-Wing Aerodynamic Design
 
-[**View Repository â†’**](https://github.com/ahmedelyamini/flying-wing-aerodynamic-design)
+[**View Repository →**](https://github.com/ahmedelyamini/flying-wing-aerodynamic-design)
 
 Preliminary aerodynamic design and longitudinal stability study of a flying-wing aircraft configuration.
 
@@ -29,9 +29,9 @@ Preliminary aerodynamic design and longitudinal stability study of a flying-wing
 
 ---
 
-### ðŸ¤– Aerospace Predictive Maintenance with Machine Learning
+### 🤖 Aerospace Predictive Maintenance with Machine Learning
 
-[**View Repository â†’**](https://github.com/ahmedelyamini/aerospace-predictive-maintenance-ai)
+[**View Repository →**](https://github.com/ahmedelyamini/aerospace-predictive-maintenance-ai)
 
 Machine-learning project focused on estimating the **Remaining Useful Life (RUL)** of simulated turbofan engines using the NASA C-MAPSS dataset.
 
@@ -52,9 +52,9 @@ Machine-learning project focused on estimating the **Remaining Useful Life (RUL)
 
 ---
 
-### ðŸ” Arduino Embedded Security System
+### 🔐 Arduino Embedded Security System
 
-[**View Repository â†’**](https://github.com/ahmedelyamini/arduino-embedded-security-system)
+[**View Repository →**](https://github.com/ahmedelyamini/arduino-embedded-security-system)
 
 Embedded alarm prototype integrating motion detection, password authentication and a simple human-machine interface.
 
@@ -70,9 +70,9 @@ Embedded alarm prototype integrating motion detection, password authentication a
 
 ---
 
-### ðŸ”Œ Embedded Arduino Projects
+### 🔌 Embedded Arduino Projects
 
-[**View Repository â†’**](https://github.com/ahmedelyamini/embedded-arduino-projects)
+[**View Repository →**](https://github.com/ahmedelyamini/embedded-arduino-projects)
 
 Collection of practical embedded-system experiments covering digital inputs, analog acquisition, interrupts and hardware control.
 
@@ -113,6 +113,7 @@ Public MES-oriented manufacturing traceability demonstration built with fully sy
 - Quality-control records
 
 ---
+
 ## Industrial Engineering & Digitalization
 
 My engineering interests also include industrial performance and manufacturing digitalization.
@@ -137,33 +138,33 @@ Industrial projects containing real production information are maintained privat
 
 ### Programming
 
-`Python` Â· `C/C++` Â· `Bash` Â· `SQL` Â· `JavaScript`
+`Python` · `C/C++` · `Bash` · `SQL` · `JavaScript`
 
 ### Software & Data
 
-`Django` Â· `PostgreSQL` Â· `REST APIs` Â· `HTML/CSS`
+`Django` · `PostgreSQL` · `REST APIs` · `HTML/CSS`
 
 ### Linux & DevOps
 
-`Linux` Â· `Docker` Â· `Nginx` Â· `Git` Â· `GitLab CI/CD`
+`Linux` · `Docker` · `Nginx` · `Git` · `GitLab CI/CD`
 
 ### Embedded Systems & IoT
 
-`Arduino` Â· `Raspberry Pi` Â· `ESP32` Â· `MQTT` Â· `TCP/IP`
+`Arduino` · `Raspberry Pi` · `ESP32` · `MQTT` · `TCP/IP`
 
-`CAN` Â· `UART` Â· `SPI` Â· `I2C` Â· `LoRa`
+`CAN` · `UART` · `SPI` · `I2C` · `LoRa`
 
 ### Industrial Engineering
 
-`Lean Manufacturing` Â· `DMAIC` Â· `VSM` Â· `FMEA` Â· `OEE`
+`Lean Manufacturing` · `DMAIC` · `VSM` · `FMEA` · `OEE`
 
-`5S` Â· `Kaizen` Â· `SMED` Â· `Ishikawa` Â· `Continuous Improvement`
+`5S` · `Kaizen` · `SMED` · `Ishikawa` · `Continuous Improvement`
 
 ### Aerospace Engineering
 
-`Aerodynamics` Â· `Aircraft Design` Â· `Embedded Avionics`
+`Aerodynamics` · `Aircraft Design` · `Embedded Avionics`
 
-`OpenVSP` Â· `Numerical Simulation`
+`OpenVSP` · `Numerical Simulation`
 
 ---
 
@@ -173,19 +174,19 @@ I am particularly interested in roles and projects combining:
 
 **Aerospace Engineering**
 
-â†“
+↓
 
 **Industrial Processes**
 
-â†“
+↓
 
 **Embedded & Digital Systems**
 
-â†“
+↓
 
 **Software & Data**
 
-â†“
+↓
 
 **Industrial Performance**
 
