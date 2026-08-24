@@ -2,7 +2,7 @@
 
 ### Aeronautical Engineer | Industrial Digitalization | Embedded Systems | Software
 
-📍 Casablanca, Morocco
+ðŸ“ Casablanca, Morocco
 
 State Engineer in **Aeronautical Engineering & Space Technologies**, interested in the intersection of aerospace engineering, industrial performance, digital technologies and embedded systems.
 
@@ -12,9 +12,9 @@ My projects combine engineering analysis with software, data, electronics and in
 
 ## Featured Projects
 
-### ✈️ Flying-Wing Aerodynamic Design
+### âœˆï¸ Flying-Wing Aerodynamic Design
 
-[**View Repository →**](https://github.com/ahmedelyamini/flying-wing-aerodynamic-design)
+[**View Repository â†’**](https://github.com/ahmedelyamini/flying-wing-aerodynamic-design)
 
 Preliminary aerodynamic design and longitudinal stability study of a flying-wing aircraft configuration.
 
@@ -29,9 +29,9 @@ Preliminary aerodynamic design and longitudinal stability study of a flying-wing
 
 ---
 
-### 🤖 Aerospace Predictive Maintenance with Machine Learning
+### ðŸ¤– Aerospace Predictive Maintenance with Machine Learning
 
-[**View Repository →**](https://github.com/ahmedelyamini/aerospace-predictive-maintenance-ai)
+[**View Repository â†’**](https://github.com/ahmedelyamini/aerospace-predictive-maintenance-ai)
 
 Machine-learning project focused on estimating the **Remaining Useful Life (RUL)** of simulated turbofan engines using the NASA C-MAPSS dataset.
 
@@ -52,9 +52,9 @@ Machine-learning project focused on estimating the **Remaining Useful Life (RUL)
 
 ---
 
-### 🔐 Arduino Embedded Security System
+### ðŸ” Arduino Embedded Security System
 
-[**View Repository →**](https://github.com/ahmedelyamini/arduino-embedded-security-system)
+[**View Repository â†’**](https://github.com/ahmedelyamini/arduino-embedded-security-system)
 
 Embedded alarm prototype integrating motion detection, password authentication and a simple human-machine interface.
 
@@ -70,9 +70,9 @@ Embedded alarm prototype integrating motion detection, password authentication a
 
 ---
 
-### 🔌 Embedded Arduino Projects
+### ðŸ”Œ Embedded Arduino Projects
 
-[**View Repository →**](https://github.com/ahmedelyamini/embedded-arduino-projects)
+[**View Repository â†’**](https://github.com/ahmedelyamini/embedded-arduino-projects)
 
 Collection of practical embedded-system experiments covering digital inputs, analog acquisition, interrupts and hardware control.
 
@@ -93,6 +93,26 @@ Projects include:
 
 ---
 
+### 🏭 Industrial MES Traceability Demo
+
+[**View Repository →**](https://github.com/ahmedelyamini/industrial-mes-traceability-demo)
+
+Public MES-oriented manufacturing traceability demonstration built with fully synthetic data.
+
+**Technologies & concepts**
+
+- Django
+- Django REST Framework
+- PostgreSQL
+- Docker
+- Gunicorn
+- REST API
+- Work-order management
+- Production batch traceability
+- Environmental monitoring
+- Quality-control records
+
+---
 ## Industrial Engineering & Digitalization
 
 My engineering interests also include industrial performance and manufacturing digitalization.
@@ -117,33 +137,33 @@ Industrial projects containing real production information are maintained privat
 
 ### Programming
 
-`Python` · `C/C++` · `Bash` · `SQL` · `JavaScript`
+`Python` Â· `C/C++` Â· `Bash` Â· `SQL` Â· `JavaScript`
 
 ### Software & Data
 
-`Django` · `PostgreSQL` · `REST APIs` · `HTML/CSS`
+`Django` Â· `PostgreSQL` Â· `REST APIs` Â· `HTML/CSS`
 
 ### Linux & DevOps
 
-`Linux` · `Docker` · `Nginx` · `Git` · `GitLab CI/CD`
+`Linux` Â· `Docker` Â· `Nginx` Â· `Git` Â· `GitLab CI/CD`
 
 ### Embedded Systems & IoT
 
-`Arduino` · `Raspberry Pi` · `ESP32` · `MQTT` · `TCP/IP`
+`Arduino` Â· `Raspberry Pi` Â· `ESP32` Â· `MQTT` Â· `TCP/IP`
 
-`CAN` · `UART` · `SPI` · `I2C` · `LoRa`
+`CAN` Â· `UART` Â· `SPI` Â· `I2C` Â· `LoRa`
 
 ### Industrial Engineering
 
-`Lean Manufacturing` · `DMAIC` · `VSM` · `FMEA` · `OEE`
+`Lean Manufacturing` Â· `DMAIC` Â· `VSM` Â· `FMEA` Â· `OEE`
 
-`5S` · `Kaizen` · `SMED` · `Ishikawa` · `Continuous Improvement`
+`5S` Â· `Kaizen` Â· `SMED` Â· `Ishikawa` Â· `Continuous Improvement`
 
 ### Aerospace Engineering
 
-`Aerodynamics` · `Aircraft Design` · `Embedded Avionics`
+`Aerodynamics` Â· `Aircraft Design` Â· `Embedded Avionics`
 
-`OpenVSP` · `Numerical Simulation`
+`OpenVSP` Â· `Numerical Simulation`
 
 ---
 
@@ -153,19 +173,19 @@ I am particularly interested in roles and projects combining:
 
 **Aerospace Engineering**
 
-↓
+â†“
 
 **Industrial Processes**
 
-↓
+â†“
 
 **Embedded & Digital Systems**
 
-↓
+â†“
 
 **Software & Data**
 
-↓
+â†“
 
 **Industrial Performance**
 
